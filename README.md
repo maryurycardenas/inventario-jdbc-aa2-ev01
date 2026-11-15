@@ -1,9 +1,9 @@
-# Módulo de Inventario - GA7-220501096-AA2-EV01
+﻿# Módulo de Inventario - GA7-220501096-AA2-EV01
 
 Codificación del módulo de productos con conexión a MySQL por JDBC (Java 17, Maven).
 
-**Aprendiz:** NOMBRE APELLIDO
-**Ficha:** XXXXXXX
+**Aprendiz:** Maryury Cardenas Ortega
+**Ficha:** 3336248
 **Programa:** Análisis y desarrollo de software
 
 ## Funcionalidades

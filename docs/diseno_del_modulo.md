@@ -1,7 +1,7 @@
-# Diseño del módulo de Inventario - GA7-220501096-AA2-EV01
+﻿# Diseño del módulo de Inventario - GA7-220501096-AA2-EV01
 
-**Aprendiz:** NOMBRE APELLIDO
-**Ficha:** XXXXXXX
+**Aprendiz:** Maryury Cardenas Ortega
+**Ficha:** 3336248
 **Programa:** Análisis y desarrollo de software
 
 ## 1. Descripción del módulo
